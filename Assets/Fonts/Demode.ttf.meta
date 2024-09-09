@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5dd7d183bbc275d44aeb51af2f574d91
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Demode
+  fontNames:
+  - Demode
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d16ac6a08983daa409a4913a27f7a4d8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
